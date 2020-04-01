@@ -2,11 +2,11 @@
 
 ### Details
 
-** Submission to the Cooking Activity Recognition Challenge, ABC: competition track [ICIEV&IVPR2020] **
+**Submission to the Cooking Activity Recognition Challenge, ABC: competition track [ICIEV&IVPR2020]**
 
-** Task 1: ** SCAR-Net 1 (no pre-processing)
+**Task 1:** SCAR-Net 1 (no pre-processing)
 
-** Task 2: ** SCAR-Net 2 (no pre-processing)
+**Task 2:** SCAR-Net 2 (no pre-processing)
 
 <hr>
 
@@ -27,4 +27,4 @@
 
 ### Paper
 
- [ ] Will be uploaded
+- [ ] Will be uploaded
