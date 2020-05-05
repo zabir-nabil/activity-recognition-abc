@@ -27,4 +27,6 @@
 
 ### Paper
 
-- [ ] Will be uploaded
+- [x] Will be uploaded
+
+preprint available at: [researchGate](https://www.researchgate.net/publication/341165525_SCAR-Net_Scalable_ConvNet_for_Activity_Recognition_with_multi-modal_Sensor_Data)
