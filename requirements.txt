@@ -214,7 +214,7 @@ tables==3.5.2
 tabulate==0.8.7
 tblib==1.4.0
 tensorboard==2.1.0
-tensorflow==2.0.0
+tensorflow==2.5.1
 tensorflow-determinism==0.3.0
 tensorflow-estimator==2.0.0
 termcolor==1.1.0
